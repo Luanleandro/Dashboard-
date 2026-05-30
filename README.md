@@ -51,3 +51,6 @@ O maior desafio técnico do projeto residiu na limpeza e padronização da base 
 
 ---
 *Projeto desenvolvido para fins de estudo e portfólio de Data Analytics.*
+
+<img width="1024" height="531" alt="image" src="https://github.com/user-attachments/assets/9ebe860f-2ec2-4d88-95c3-9363c6713134" />
+
